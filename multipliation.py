@@ -1,4 +1,4 @@
-# Python Program to Print Multiplication Table of a Number
+#Program to do Multiplication Table of a given  Number
 
 num = int(input("Enter the number: "))
 print("Multiplication Table of ", num)
