@@ -12,5 +12,4 @@ while(i <= a and i <= b):
         gcd = i
     i = i + 1
 
-#print("\n HCF of {0} and {1} = {2}".format(a, b, gcd))
 print("GCD of two numbers is:", gcd)
