@@ -1,5 +1,5 @@
-unit1 = input("Which unit you would like to convert from : ")
-unit2 = input("Which unit you would like to convert to : ")
+unit1 = input("Which unit you would like to convert from please choose between hour,minutes,seconds and day : ")
+unit2 = input("Which unit you would like to convert to please choose between hour,minutes,seconds and day : ")
 i = float(input("Enter value: "))
 
 if unit1 == "seconds" and unit2 == "minutes":
